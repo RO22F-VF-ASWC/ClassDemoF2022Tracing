@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoF2022Tracing", "ClassDemoF2022Tracing\ClassDemoF2022Tracing.csproj", "{2546AAA3-78DE-48E4-AD4F-51869BD7A5D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2546AAA3-78DE-48E4-AD4F-51869BD7A5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2546AAA3-78DE-48E4-AD4F-51869BD7A5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2546AAA3-78DE-48E4-AD4F-51869BD7A5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2546AAA3-78DE-48E4-AD4F-51869BD7A5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBD7D80-8598-42F6-9E11-A3591DE880BF}
+	EndGlobalSection
+EndGlobal
